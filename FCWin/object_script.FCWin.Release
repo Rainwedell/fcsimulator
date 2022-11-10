@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/cartridge.o
+./release/controller.o
+./release/cpu.o
+./release/cpu_ram.o
+./release/ppu.o
+./release/ppu_bus.o
+./release/mapper_0.o
+./release/mapper_1.o
+./release/mapper_2.o
+./release/moc_mainwindow.o
+);

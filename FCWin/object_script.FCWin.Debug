@@ -1,0 +1,14 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/cartridge.o
+./debug/controller.o
+./debug/cpu.o
+./debug/cpu_ram.o
+./debug/ppu.o
+./debug/ppu_bus.o
+./debug/mapper_0.o
+./debug/mapper_1.o
+./debug/mapper_2.o
+./debug/moc_mainwindow.o
+);
